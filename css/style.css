@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#wrap {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+#genbox {
+    word-break: break-all;
+    text-align: left;
+}
+
+#genbox .badge{
+    font-size: 3.15rem;
+}
